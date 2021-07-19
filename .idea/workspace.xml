@@ -25,6 +25,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -112,6 +113,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="351" y="0" key="#clientApp" timestamp="1626668504706">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="351" y="0" key="#clientApp/0.0.1280.680@0.0.1280.680" timestamp="1626668504706" />
     <state width="1259" height="162" key="GridCell.Tab.0.bottom" timestamp="1626430708254">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
